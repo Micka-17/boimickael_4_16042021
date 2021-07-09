@@ -17,7 +17,9 @@ button {
     outline: none!important;
 }
 
-
+.black-text {
+    color: black;
+}
 
 #citations {
     margin-top: 50px;
